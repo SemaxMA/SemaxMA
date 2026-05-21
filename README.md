@@ -4,4 +4,4 @@
 20 años • Estudiante de Informática
 </p>
 
-<img src="banner.png" width="100%">
+<img src="banner.png.jpg" width="100%">
