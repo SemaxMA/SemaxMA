@@ -3,3 +3,5 @@
 <p align="center">
 20 años • Estudiante de Informática
 </p>
+
+<img src="banner.png" width="100%">
